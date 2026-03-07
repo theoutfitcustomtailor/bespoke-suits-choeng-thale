@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theoutfitcustomtailor.github.io/bespoke-suits-choeng-thale/sitemap.xml
